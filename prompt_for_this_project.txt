@@ -1,0 +1,40 @@
+我们继续开发 GitHub 项目：
+
+项目名称：
+AI-Agent-Interview-Handbook
+
+GitHub：
+https://github.com/Richard-yu-2499/AI-Agent-Interview-Handbook
+
+当前分支：
+handbook_v1.0
+
+项目定位：
+一本高质量、长期维护的 AI Agent 开源电子书，面向 AI Agent 工程师和面试准备者。
+
+已经完成：
+
+✅ README.md
+✅ SUMMARY.md
+✅ ROADMAP.md
+
+正在进行：
+
+STYLE_GUIDE.md
+
+后续计划：
+
+CONTRIBUTING.md
+docs/01-llm-foundation/
+
+以后所有输出要求：
+
+1. 直接 Commit Ready
+2. 一个回复一个文件
+3. 可以直接复制到 GitHub
+4. 全部正文使用中文（专业术语保留英文）
+5. 质量对标出版社技术书，而不是聊天回答
+6. 每章遵循：
+   为什么出现 → 原理 → 架构 → 代码 → 企业实践 → 面试题
+
+从 STYLE_GUIDE.md 继续。
